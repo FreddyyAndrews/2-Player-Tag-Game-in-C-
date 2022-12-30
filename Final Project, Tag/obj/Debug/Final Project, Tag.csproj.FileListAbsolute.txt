@@ -1,0 +1,15 @@
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\bin\Debug\8   Bit Coin SOUND Effect.wav
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\bin\Debug\AdhesiveWombat - 8 Bit Adventure.wav
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\bin\Debug\Final Project, Tag.exe.config
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\bin\Debug\Final Project, Tag.exe
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\bin\Debug\Final Project, Tag.pdb
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\obj\Debug\Final_Project__Tag.Form.resources
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\obj\Debug\Final_Project__Tag.Form3.resources
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\obj\Debug\Final_Project__Tag.Form4.resources
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\obj\Debug\Final_Project__Tag.Properties.Resources.resources
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\obj\Debug\Final Project, Tag.csproj.GenerateResource.cache
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\obj\Debug\Final Project, Tag.csproj.CoreCompileInputs.cache
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\obj\Debug\Final Project, Tag.exe
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\obj\Debug\Final Project, Tag.pdb
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\bin\Debug\8-Bit RPG Music - Victory Theme  Original Composition.wav
+C:\Users\fredd\source\repos\Final Project, Tag\Final Project, Tag\obj\Debug\Final Project, Tag.csproj.AssemblyReference.cache
